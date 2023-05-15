@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey programmers 👋⌨️
 
-<!--
-**fk652/fk652** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![CatCrazyCatGIF](https://github.com/fk652/fk652/assets/43799922/95b816ba-bb44-470f-9ba9-9dadc1fdfd37)
 
-Here are some ideas to get you started:
+## I'm a software engineer and full stack developer 
+- 🔭 I’m currently working on Capycord
+- 🌱 I’m currently learning new full stack tech
+- 💬 Ask me about capybaras and coding problems
+- 📫 How to reach me: fk652@nyu.edu
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: There is a special edition of Galactic Defenders out in the wild, see if you can find it!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My github stats
+
+![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=fk652&show_icons=true&theme=github_dark_dimmed&count_private=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fk652&hide_progress=true&theme=github_dark_dimmed&hide=html,css,scss,less,c,jupyter%20notebook)](https://github.com/fk652)
+
+## Here's a random capybara
+
+![CapybaraGIF](https://github.com/fk652/fk652/assets/43799922/a616f268-623f-4be8-8ae3-bfd0676d248b)
