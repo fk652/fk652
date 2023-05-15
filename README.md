@@ -3,10 +3,11 @@
 ![CatCrazyCatGIF](https://github.com/fk652/fk652/assets/43799922/95b816ba-bb44-470f-9ba9-9dadc1fdfd37)
 
 ## I'm a software engineer and full stack developer 
+
 - 🔭 I’m currently working on Capycord
 - 🌱 I’m currently learning new full stack tech
 - 💬 Ask me about capybaras and coding problems
-- 📫 How to reach me: fk652@nyu.edu
+- 📫 How to reach me: send an email to fk652@nyu.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: There is a special edition of Galactic Defenders out in the wild, see if you can find it!
 
