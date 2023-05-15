@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Capycord
 - 🌱 I’m currently learning new full stack tech
-- 💬 Ask me about capybaras and coding problems
+- 💬 Ask me about capybaras and coding problems, or share some silly memes with me :)
 - 📫 How to reach me: fk652@nyu.edu
 - 🗺️ I'm based in New York, NY, USA
 - 😄 Pronouns: he/him
