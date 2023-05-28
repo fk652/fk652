@@ -10,7 +10,8 @@
 - 📫 How to reach me: fk652@nyu.edu
 - 🗺️ I'm based in New York, NY, USA
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: There is a special edition of my [Galactic Defender](https://fk652.github.io/Galactic-Defender/) game out in the wild, see if you can find it!
+- ⚡ Fun fact: There is a secret edition of my [Galactic Defender](https://fk652.github.io/Galactic-Defender/) game out in the wild, see if you can find it!  
+(hint: look around my [portfolio site](https://fahim-khan.com/) 😉)
 
 ## My github stats
 
