@@ -44,8 +44,8 @@
 ## My Github Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fk652&show_icons=true&theme=github_dark_dimmed&count_private=true&hide_rank=true&hide_title=true" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fk652&hide_progress=true&langs_count=6&theme=github_dark_dimmed&hide=php,scss,less,c,jupyter%20notebook" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=fk652&show_icons=true&theme=github_dark_dimmed&count_private=true&hide_rank=true&hide_title=true" height="175">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fk652&hide_progress=true&langs_count=6&theme=github_dark_dimmed&hide=php,scss,less,c,jupyter%20notebook" height="175">
 </p>
 
 ### Here's a random capybara
