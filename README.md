@@ -4,8 +4,8 @@
 
 ## I'm a Software Engineer and Full Stack Developer 
 
-- 🔭 I’m currently working on Capycord
-- 🌱 I’m currently learning new full stack tech
+- 🔭 I’m currently working on a new project with Django/Flask
+- 🌱 I’m currently learning Python full stack
 - 💬 Ask me about capybaras and coding problems, or share some silly memes with me :)
 - 📫 How to reach me: fk652@nyu.edu
 - 🗺️ I'm based in New York, NY, USA
