@@ -5,7 +5,7 @@
 ## I'm a Software Engineer and Full Stack Developer 
 
 - 🔭 I’m currently working on a new project with Django/Flask
-- 🌱 I’m currently learning Python full stack
+- 🌱 I’m currently learning Django, Flask, and TypeScript
 - 💬 Ask me about capybaras and coding problems, or share some silly memes with me :)
 - 📫 How to reach me: fk652@nyu.edu
 - 🗺️ I'm based in New York, NY, USA
