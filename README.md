@@ -50,4 +50,4 @@
 
 ### Here's a random capybara
 
-<img src="https://github.com/fk652/fk652/assets/43799922/a616f268-623f-4be8-8ae3-bfd0676d248b" alt="Capybara" height="200">
+<img src="https://github.com/fk652/fk652/assets/43799922/a616f268-623f-4be8-8ae3-bfd0676d248b" alt="Capybara" height="201">
