@@ -1,6 +1,6 @@
 ### Hey programmers 👋⌨️
 
-<img src="https://github.com/fk652/fk652/assets/43799922/95b816ba-bb44-470f-9ba9-9dadc1fdfd37" alt="Keyboard Cat" height="200">
+<img src="https://github.com/fk652/fk652/assets/43799922/95b816ba-bb44-470f-9ba9-9dadc1fdfd37" alt="Keyboard Cat" height="200px">
 
 ## I'm a Software Engineer and Full Stack Developer 
 
@@ -50,4 +50,4 @@
 
 ### Here's a random capybara
 
-<img src="https://github.com/fk652/fk652/assets/43799922/a616f268-623f-4be8-8ae3-bfd0676d248b" alt="Capybara" height="201">
+<img src="https://github.com/fk652/fk652/assets/43799922/a616f268-623f-4be8-8ae3-bfd0676d248b" alt="Capybara" height="200px">
