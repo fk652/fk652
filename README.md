@@ -1,12 +1,10 @@
-### Hey programmers 👋⌨️
+### Hey there! 👋⌨
 
 <img src="https://github.com/fk652/fk652/assets/43799922/95b816ba-bb44-470f-9ba9-9dadc1fdfd37" alt="Keyboard Cat" height="200px">
 
-## I'm a Software Engineer and Full Stack Developer 
+## I'm a Full Stack Developer 
 
-- 🔭 I’m currently working on a new project with Django/Flask
-- 🌱 I’m currently learning Django, Flask, and TypeScript
-- 💬 Ask me about capybaras and coding problems, or share some silly memes with me :)
+- 💬 Ask me about capybaras or share some silly memes with me :)
 - 📫 How to reach me: fk652@nyu.edu
 - 🗺️ I'm based in New York, NY, USA
 - 😄 Pronouns: he/him
@@ -41,10 +39,7 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
 
-## My Github Stats
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fk652&show_icons=true&theme=github_dark_dimmed&count_private=true&hide_rank=true&hide_title=true" height="175">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fk652&hide_progress=true&langs_count=6&theme=github_dark_dimmed&hide=php,scss,less,c,jupyter%20notebook" height="175">
 </p>
 
